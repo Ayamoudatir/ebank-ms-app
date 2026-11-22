@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": ["body { margin: 0; background: #f5f7fb; }\n"],
+  "mappings": ";AAAA;AAAO,UAAQ;AAAG,cAAY;AAAS;",
+  "names": []
+}
