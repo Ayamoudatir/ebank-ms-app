@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;42628dff008ba020a62bcc8ee0372564baef654af7a8da235d75adce57cb9969;/Users/user/IdeaProjects/ebank-ms-app/angular-client/src/main.ts"],
-  "sourcesContent": ["\n    :host { font-family: Arial, sans-serif; color: #172033; }\n    main { max-width: 780px; margin: 40px auto; padding: 0 20px; }\n    .hint { color: #5b6475; }\n    .card { border: 1px solid #dbe1ea; border-radius: 12px; padding: 20px; margin: 18px 0; }\n    label { display: grid; gap: 7px; margin: 14px 0; }\n    input, select, button { padding: 10px; border: 1px solid #bbc5d3; border-radius: 7px; }\n    button { background: #174ea6; color: white; cursor: pointer; }\n    button:disabled { opacity: .5; cursor: default; }\n    .error { color: #b42318; }\n  "],
-  "mappings": ";AACI;AAAQ,eAAa,KAAK,EAAE;AAAY,SAAO;AAAS;AACxD;AAAO,aAAW;AAAO,UAAQ,KAAK;AAAM,WAAS,EAAE;AAAM;AAC7D,CAAC;AAAO,SAAO;AAAS;AACxB,CAAC;AAAO,UAAQ,IAAI,MAAM;AAAS,iBAAe;AAAM,WAAS;AAAM,UAAQ,KAAK;AAAG;AACvF;AAAQ,WAAS;AAAM,OAAK;AAAK,UAAQ,KAAK;AAAG;AACjD;AAAO;AAAQ;AAAS,WAAS;AAAM,UAAQ,IAAI,MAAM;AAAS,iBAAe;AAAK;AACtF;AAAS,cAAY;AAAS,SAAO;AAAO,UAAQ;AAAS;AAC7D,MAAM;AAAY,WAAS;AAAI,UAAQ;AAAS;AAChD,CAAC;AAAQ,SAAO;AAAS;",
-  "names": []
-}
